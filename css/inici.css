@@ -1,0 +1,9 @@
+article section p {
+    font-size: 20px;
+    margin-top: 3em;
+    margin-bottom: 12em;
+    margin-left: 42em;
+    margin-right: 5em;
+    text-align: justify;
+    line-height: 1.5;
+}
